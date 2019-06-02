@@ -1,0 +1,6 @@
+# ignore pycharm files
+venv/
+__pycache__/
+.idea/
+speffs-memo.txt
+letter_pair_page.html
